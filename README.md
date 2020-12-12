@@ -1,5 +1,7 @@
 
-# Welcome to your CDK Python project!
+# AWS textract serverless large scale document processing - in Python!
+
+### Please refer the original [aws sample code](https://github.com/aws-samples/amazon-textract-serverless-large-scale-document-processing) written in TypeScript. I have just translated to Python.
 
 You should explore the contents of this project. It demonstrates a CDK app with an instance of a stack (`textract_pipeline_stack`)
 which contains an Amazon SQS queue that is subscribed to an Amazon SNS topic.
